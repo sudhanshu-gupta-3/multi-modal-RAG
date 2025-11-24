@@ -1,8 +1,0 @@
-Video Demo Script
-
-- Intro
-- Architecture walkthrough
-- Ingestion demo
-- Retrieval demo
-- QA demo
-- Final remarks
