@@ -1,0 +1,15 @@
+faiss-cpu
+sentence-transformers
+transformers
+pillow
+numpy
+pypdf
+pdfplumber
+pdf2image
+gradio
+requests
+python-dotenv
+tqdm
+fitz
+PyMuPDF
+pytesseract
