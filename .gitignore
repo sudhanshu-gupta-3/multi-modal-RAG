@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.ipynb_checkpoints/
+faiss_index/
+embeddings/
+ingest/images/
+ingest/tables/
